@@ -1,4 +1,3 @@
-#C:\Users\colin\OneDrive\Desktop\CSC\544\Assigh4\HTTPClient
 #python HTTPClient.py www.cnn.com 80 GET index.html
 
 #imports the socket, sys, and requests libraries
