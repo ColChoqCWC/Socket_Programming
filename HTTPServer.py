@@ -1,4 +1,3 @@
-#C:\Users\colin\OneDrive\Desktop\CSC\544\Assigh4\HTTPServer
 #python HTTPServer.py 50000
 
 #import the socket and sys libraries
